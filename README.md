@@ -1,2 +1,2 @@
 # EcoDESS-pipeline
-Pipeline I used for 16S rRNA amplicon sequencing analysis for the EcoDESS project w/ Dr. Kostas Konstantinidis
+Pipeline I used for 16S rRNA amplicon sequencing analysis for the EcoDESS project w/ Kostas
